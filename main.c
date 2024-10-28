@@ -12,7 +12,7 @@
 #define HID_WRITE_REPORT_SIZE 6
 
 // Button symbol definitions
-#define BTN_SYMBOL_UNSET 'X'
+#define BTN_SYMBOL_UNSET 'x'
 #define BTN_SYMBOL_RED 'R'
 #define BTN_SYMBOL_YELLOW 'Y'
 #define BTN_SYMBOL_GREEN 'G'
